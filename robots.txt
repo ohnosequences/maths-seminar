@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://ohnosequences.github.com/maths-seminar/sitemap.xml 
+Sitemap: http://ohnosequences.com/maths-seminar/sitemap.xml 

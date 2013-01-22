@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: self | My Octopress Blog]]></title>
-  <link href="http://ohnosequences.github.com/maths-seminar/blog/categories/self/atom.xml" rel="self"/>
-  <link href="http://ohnosequences.github.com/maths-seminar/"/>
-  <updated>2013-01-22T19:29:33+01:00</updated>
-  <id>http://ohnosequences.github.com/maths-seminar/</id>
+  <title><![CDATA[Category: self | oh no sequences! - ugr maths seminar]]></title>
+  <link href="http://ohnosequences.com/maths-seminar/blog/categories/self/atom.xml" rel="self"/>
+  <link href="http://ohnosequences.com/maths-seminar/"/>
+  <updated>2013-01-22T19:33:06+01:00</updated>
+  <id>http://ohnosequences.com/maths-seminar/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Intro]]></title>
-    <link href="http://ohnosequences.github.com/maths-seminar/blog/2012/07/22/intro/"/>
+    <link href="http://ohnosequences.com/maths-seminar/blog/2012/07/22/intro/"/>
     <updated>2012-07-22T08:23:00+02:00</updated>
-    <id>http://ohnosequences.github.com/maths-seminar/blog/2012/07/22/intro</id>
+    <id>http://ohnosequences.com/maths-seminar/blog/2012/07/22/intro</id>
     <content type="html"><![CDATA[<p>Testing!</p>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin, massa eu vestibulum laoreet, nibh ante vulputate lorem, ac lobortis ante tellus eu mi. Duis sem nisi, luctus at feugiat eget, fringilla ut tellus. Nam a molestie justo. Sed pulvinar est vitae tellus semper tincidunt. Fusce euismod luctus lacus nec placerat. Mauris rutrum scelerisque nulla ut tempor. Nunc porttitor posuere mi, aliquet vehicula lorem feugiat in. Ut ut fermentum risus. Aliquam tincidunt ultricies ante sit amet bibendum. Cras nec sapien odio. Duis posuere congue sem, at congue massa faucibus at.</p>

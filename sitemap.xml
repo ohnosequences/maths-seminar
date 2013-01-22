@@ -1,29 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://ohnosequences.github.com/maths-seminar/blog/2012/07/22/intro/</loc>
+        <loc>http://ohnosequences.com/maths-seminar/blog/2012/07/22/intro/</loc>
         <lastmod>2013-01-22T19:29:22+01:00</lastmod>
     </url>
     <url>
         <loc>
-            http://ohnosequences.github.com/maths-seminar/blog/2012/07/22/the-problem-with-pingdom/
+            http://ohnosequences.com/maths-seminar/blog/2012/07/22/the-problem-with-pingdom/
         </loc>
-        <lastmod>2013-01-22T19:29:22+01:00</lastmod>
+        <lastmod>2013-01-22T19:32:59+01:00</lastmod>
     </url>
     <url>
-        <loc>http://ohnosequences.github.com/maths-seminar/robots.txt</loc>
+        <loc>http://ohnosequences.com/maths-seminar/robots.txt</loc>
         <lastmod>2013-01-17T16:31:42+01:00</lastmod>
     </url>
     <url>
-        <loc>http://ohnosequences.github.com/maths-seminar/about/</loc>
+        <loc>http://ohnosequences.com/maths-seminar/about/</loc>
         <lastmod>2013-01-22T19:29:22+01:00</lastmod>
     </url>
     <url>
-        <loc>http://ohnosequences.github.com/maths-seminar/blog/archives/</loc>
-        <lastmod>2013-01-22T19:29:22+01:00</lastmod>
+        <loc>http://ohnosequences.com/maths-seminar/blog/archives/</loc>
+        <lastmod>2013-01-22T19:32:59+01:00</lastmod>
     </url>
     <url>
-        <loc>http://ohnosequences.github.com/maths-seminar/</loc>
-        <lastmod>2013-01-22T19:29:22+01:00</lastmod>
+        <loc>http://ohnosequences.com/maths-seminar/</loc>
+        <lastmod>2013-01-22T19:32:59+01:00</lastmod>
     </url>
 </urlset>
